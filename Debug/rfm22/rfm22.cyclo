@@ -1,0 +1,2 @@
+../rfm22/rfm22.c:9:6:rfm22_rx_init	1
+../rfm22/rfm22.c:52:6:rfm22_receive	1
